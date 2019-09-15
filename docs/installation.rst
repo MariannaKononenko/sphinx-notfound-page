@@ -1,6 +1,12 @@
 Installation
 ============
 
+Requirments
+-----------
+
+   * Python 2.7+ or 3.x
+   * Sphinx 1.5+ or 2.x
+   
 Install the package
 
 .. tabs::
@@ -47,7 +53,4 @@ you can build your documentation again and you will see a new file called ``404.
 
 .. note::
 
-   This extension requires,
 
-   * Python 2.7+ or 3.x
-   * Sphinx 1.5+ or 2.x
